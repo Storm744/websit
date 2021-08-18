@@ -1,0 +1,120 @@
+@charset "UTF-8"; 
+
+*{
+	font-family: "Arial" ,sans-serif ;
+	color: gray;
+	line-height: 1,5;
+}
+
+body
+{
+
+	background: gray url("Bilder/hack.jpg") fixed;
+	background-size: auto;
+	margin:0;
+}
+div#2
+{
+	
+	text-align:center;
+
+}
+div,form
+{
+
+text-align:center;
+
+
+	
+	
+	
+}
+
+
+div
+{
+	background: black;
+	width : 75%;
+	margin: 0px auto;
+	padding: 1.5% 1%;
+	box-shadow: 5px 3px ;
+}
+
+ul
+{
+	margin-bottom: 0;
+}
+img
+{
+	width:100%;
+	margin:auto auto;
+}
+footer
+{
+	<! background: green;
+	margin:auto auto;
+	color:teal;
+}
+
+h1,h2,h3{
+	
+	background: olive;
+	color:maroon;
+	text-align:center;
+	padding:1%;
+	box-shadow:5px 3px 1px red;
+	text-shadow:1px 1px 1px red;
+	border-radius: 20px/50%;
+	
+}
+nav ,ul ,li{
+	list-style-type: none;
+	text-align: center;
+	
+	
+}
+
+
+
+
+
+link a{
+     padding: 6%;
+     margin: -95px 490px;
+     position: absolute; /* Ignoriert andere Elemente*/
+     border-radius: 50%;		
+     background-color: white;
+     }
+
+ ul {
+     list-style-type: none;
+     background-color: #8B 00 00;
+     }
+
+ ul a{
+     color: white;
+     text-decoration: none;
+     font-size: 18px;
+     padding: 16px 14px; /*Größe des Bereichs*/
+     display: block; /*Erstellt eine Box*/
+     text-align: center;
+     }
+
+ ul a:hover{
+     transform: scale(1.07);
+     }
+
+ ul a:hover:not(active) {
+     background-color: #333;
+     }
+
+
+ li{
+     float: left;
+     padding: 0px 20px;
+     }
+*/
+
+ nav{
+     margin-top: 150px;
+     }
